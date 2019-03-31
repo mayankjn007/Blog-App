@@ -1,0 +1,17 @@
+div.header i.icon
+{
+	font-size: 2em;
+}
+.container.main{
+    margin-top: 7em;
+}
+/*.ui.fixed.inverted.menu{*/
+/*    margin-bottom: 7.0em;*/
+/*}*/
+/*h1:first-child{*/
+/*    margin-top: 3em;*/
+/*}*/
+
+#delete{
+    display: inline;
+}
